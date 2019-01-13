@@ -41,7 +41,7 @@ kubectl exec -it --user=root jenkins-1-6f88f74b78-rqtlc  bash
 
 getting logged in  pod kubectl exec jenkins-1-6f88f74b78-rqtlc  -it /bin/sh
 
-# hellowhale
+# Kube-GCP-Demo
 Simple Docker Demo App
 
 
